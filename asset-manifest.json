@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio1/static/css/main.3534a744.css",
-    "main.js": "/portfolio1/static/js/main.de30a081.js",
-    "static/media/port03.jpg": "/portfolio1/static/media/port03.10502167886097e4ab9a.jpg",
-    "static/media/port09.jpg": "/portfolio1/static/media/port09.9124259969f223516e0a.jpg",
-    "static/media/port07.jpg": "/portfolio1/static/media/port07.f1ca7a69df2193ef7341.jpg",
-    "static/media/about.jpg": "/portfolio1/static/media/about.7603727cc44fae869a08.jpg",
-    "static/media/port10.jpg": "/portfolio1/static/media/port10.e887146d87b151838576.jpg",
-    "static/media/port06.jpg": "/portfolio1/static/media/port06.8754efaddfae4c96c423.jpg",
-    "static/media/port01.jpg": "/portfolio1/static/media/port01.86da11c450aa1ec41383.jpg",
-    "static/media/port02.jpg": "/portfolio1/static/media/port02.d84264667591e1038e42.jpg",
-    "static/media/port08.jpg": "/portfolio1/static/media/port08.37865dcd03b8e3e64163.jpg",
-    "static/media/port04.jpg": "/portfolio1/static/media/port04.736e7eaba137255e6a72.jpg",
-    "static/media/port05.jpg": "/portfolio1/static/media/port05.d7cbc880837be1dc9761.jpg",
-    "static/media/arrow.svg": "/portfolio1/static/media/arrow.12016ca84546b85b5506.svg",
-    "index.html": "/portfolio1/index.html",
-    "main.3534a744.css.map": "/portfolio1/static/css/main.3534a744.css.map",
-    "main.de30a081.js.map": "/portfolio1/static/js/main.de30a081.js.map"
+    "main.css": "https://kungchan1111.github.io/portfolio1/static/css/main.67815969.css",
+    "main.js": "https://kungchan1111.github.io/portfolio1/static/js/main.88c36dc7.js",
+    "static/media/port03.jpg": "https://kungchan1111.github.io/portfolio1/static/media/port03.10502167886097e4ab9a.jpg",
+    "static/media/port09.jpg": "https://kungchan1111.github.io/portfolio1/static/media/port09.9124259969f223516e0a.jpg",
+    "static/media/port07.jpg": "https://kungchan1111.github.io/portfolio1/static/media/port07.f1ca7a69df2193ef7341.jpg",
+    "static/media/about.jpg": "https://kungchan1111.github.io/portfolio1/static/media/about.7603727cc44fae869a08.jpg",
+    "static/media/port10.jpg": "https://kungchan1111.github.io/portfolio1/static/media/port10.e887146d87b151838576.jpg",
+    "static/media/port06.jpg": "https://kungchan1111.github.io/portfolio1/static/media/port06.8754efaddfae4c96c423.jpg",
+    "static/media/port01.jpg": "https://kungchan1111.github.io/portfolio1/static/media/port01.86da11c450aa1ec41383.jpg",
+    "static/media/port02.jpg": "https://kungchan1111.github.io/portfolio1/static/media/port02.d84264667591e1038e42.jpg",
+    "static/media/port08.jpg": "https://kungchan1111.github.io/portfolio1/static/media/port08.37865dcd03b8e3e64163.jpg",
+    "static/media/port04.jpg": "https://kungchan1111.github.io/portfolio1/static/media/port04.736e7eaba137255e6a72.jpg",
+    "static/media/port05.jpg": "https://kungchan1111.github.io/portfolio1/static/media/port05.d7cbc880837be1dc9761.jpg",
+    "static/media/arrow.svg": "https://kungchan1111.github.io/portfolio1/static/media/arrow.5484000f7088bc4fd412.svg",
+    "index.html": "https://kungchan1111.github.io/portfolio1/index.html",
+    "main.67815969.css.map": "https://kungchan1111.github.io/portfolio1/static/css/main.67815969.css.map",
+    "main.88c36dc7.js.map": "https://kungchan1111.github.io/portfolio1/static/js/main.88c36dc7.js.map"
   },
   "entrypoints": [
-    "static/css/main.3534a744.css",
-    "static/js/main.de30a081.js"
+    "static/css/main.67815969.css",
+    "static/js/main.88c36dc7.js"
   ]
 }
