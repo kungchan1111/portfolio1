@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://kungchan1111.github.io/portfolio1/static/css/main.67815969.css",
-    "main.js": "https://kungchan1111.github.io/portfolio1/static/js/main.1a5fa36b.js",
+    "main.js": "https://kungchan1111.github.io/portfolio1/static/js/main.2d66dab3.js",
     "static/media/port03.jpg": "https://kungchan1111.github.io/portfolio1/static/media/port03.10502167886097e4ab9a.jpg",
     "static/media/port09.jpg": "https://kungchan1111.github.io/portfolio1/static/media/port09.9124259969f223516e0a.jpg",
     "static/media/port07.jpg": "https://kungchan1111.github.io/portfolio1/static/media/port07.f1ca7a69df2193ef7341.jpg",
@@ -16,10 +16,10 @@
     "static/media/arrow.svg": "https://kungchan1111.github.io/portfolio1/static/media/arrow.5484000f7088bc4fd412.svg",
     "index.html": "https://kungchan1111.github.io/portfolio1/index.html",
     "main.67815969.css.map": "https://kungchan1111.github.io/portfolio1/static/css/main.67815969.css.map",
-    "main.1a5fa36b.js.map": "https://kungchan1111.github.io/portfolio1/static/js/main.1a5fa36b.js.map"
+    "main.2d66dab3.js.map": "https://kungchan1111.github.io/portfolio1/static/js/main.2d66dab3.js.map"
   },
   "entrypoints": [
     "static/css/main.67815969.css",
-    "static/js/main.1a5fa36b.js"
+    "static/js/main.2d66dab3.js"
   ]
 }
